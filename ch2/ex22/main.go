@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"golangbook/ch2/ex22/tempconv"
+	"rgogunskiy/golangbook/ch2/ex22/tempconv"
 	"os"
 	"strconv"
 )
